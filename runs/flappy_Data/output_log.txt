@@ -1,0 +1,51 @@
+Initialize engine version: 5.6.1f1 (2860b30f0b54)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 765M (ID=0x11e2)
+    Vendor:   NVIDIA
+    VRAM:     2017 MB
+    Driver:   21.21.13.7654
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\guilh\OneDrive\Documentos\FlappyGui\runs\flappy_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\guilh\OneDrive\Documentos\FlappyGui\runs\flappy_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\guilh\OneDrive\Documentos\FlappyGui\runs\flappy_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\guilh\OneDrive\Documentos\FlappyGui\runs\flappy_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\guilh\OneDrive\Documentos\FlappyGui\runs\flappy_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\guilh\OneDrive\Documentos\FlappyGui\runs\flappy_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\guilh\OneDrive\Documentos\FlappyGui\runs\flappy_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\guilh\OneDrive\Documentos\FlappyGui\runs\flappy_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\guilh\OneDrive\Documentos\FlappyGui\runs\flappy_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\guilh\OneDrive\Documentos\FlappyGui\runs\flappy_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.023 seconds
+Platform assembly: C:\Users\guilh\OneDrive\Documentos\FlappyGui\runs\flappy_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\guilh\OneDrive\Documentos\FlappyGui\runs\flappy_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 59Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 3.555431 ms
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 14.532903 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 451.
+Total: 0.638680 ms (FindLiveObjects: 0.068113 ms CreateObjectMapping: 0.056450 ms MarkObjects: 0.477727 ms  DeleteObjects: 0.034523 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.230708 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 451.
+Total: 0.645212 ms (FindLiveObjects: 0.086774 ms CreateObjectMapping: 0.085375 ms MarkObjects: 0.459999 ms  DeleteObjects: 0.011663 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.745982 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 451.
+Total: 0.407747 ms (FindLiveObjects: 0.047119 ms CreateObjectMapping: 0.039655 ms MarkObjects: 0.312109 ms  DeleteObjects: 0.007931 ms)
+
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 120c -> priority: 1 
+  Thread -> id: 27c8 -> priority: 1 
+  Thread -> id: 1564 -> priority: 1 
+  Thread -> id: 1d74 -> priority: 1 
